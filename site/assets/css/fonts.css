@@ -1,0 +1,26 @@
+
+@font-face {
+    src: url("/assets/fonts/MADE Evolve Sans Thin (PERSONAL USE).otf");
+    font-family: "MADE Evolve Sans";
+    font-weight: 200;
+}
+@font-face {
+    src: url("/assets/fonts/MADE Evolve Sans Light (PERSONAL USE).otf");
+    font-family: "MADE Evolve Sans";
+    font-weight: 300;
+}
+@font-face {
+    src: url("/assets/fonts/MADE Evolve Sans Regular (PERSONAL USE).otf");
+    font-family: "MADE Evolve Sans";
+    font-weight: normal;
+}
+@font-face {
+    src: url("/assets/fonts/MADE Evolve Sans Medium (PERSONAL USE).otf");
+    font-family: "MADE Evolve Sans";
+    font-weight: 500;
+}
+@font-face {
+    src: url("/assets/fonts/MADE Evolve Sans Bold (PERSONAL USE).otf");
+    font-family: "MADE Evolve Sans";
+    font-weight: bold;
+}
